@@ -1,2 +1,2 @@
-# infy_assignments
+# infy_ccp
 Infosys Assignments
