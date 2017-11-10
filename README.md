@@ -1,2 +1,2 @@
 # infy_ccp
-Infosys Assignmentsfor CCP
+Infosys Assignments for CCP
